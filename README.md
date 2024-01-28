@@ -4,7 +4,7 @@
 </p>
 <p>
 
-![Optional Image Description](https://i.imgur.com/LmCIM39.png)
+
 
 
 </p>
@@ -39,8 +39,7 @@ This tutorial outlines the prerequisites and installation of the Azure CLI as we
 <h2>Installation Steps</h2>
 
 <p>
-<img src=![image](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure-Resource-Group-using-Azure-CLI/assets/142637996/e6217891-1e77-46e0-b208-7540882c3353)
-
+![Optional Image Description](https://i.imgur.com/LmCIM39.png)
 </p>
 <p>
 
@@ -53,7 +52,9 @@ Ensure that the Azure CLI is installed on your Windows PC. If not, you can downl
 <br />
 
 <p>
+ 
  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 
