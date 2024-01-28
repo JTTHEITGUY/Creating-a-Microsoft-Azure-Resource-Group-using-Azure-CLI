@@ -3,7 +3,9 @@
 
 </p>
 <p>
-https://imgur.com/LmCIM39 
+
+![Optional Image Description](https://i.imgur.com/LmCIM39.png)
+
 
 </p>
 <p>
