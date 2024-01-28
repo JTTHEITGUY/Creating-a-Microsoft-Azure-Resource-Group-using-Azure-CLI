@@ -60,7 +60,7 @@ Ensure that the Azure CLI is installed on your Windows PC. If not, you can downl
 
   **Step 2: Open Windows Powershell**
 
-On your Windows PC. You can do this by searching for Windows Powershell in the Windows search bar.
+On your Windows PC, you can accomplish this by typing "Windows PowerShell" into the search bar.
 </p>
 <br />
 
@@ -71,7 +71,7 @@ On your Windows PC. You can do this by searching for Windows Powershell in the W
 </p>
 <p>
 
-**Step 3: Login to Azure**
+**Step 3: Login to Microsoft Azure**
 
 To log in to your Azure account via the Azure CLI, run the following command:
 **az login**
@@ -138,4 +138,4 @@ This will display a table of all your resource groups along with their details.
 </p>
 <p>
 
-And now you know how to deploy a Microsoft Azure Resource Group using the Azure CLI!
+And now, you're equipped with the knowledge to deploy a Microsoft Azure Resource Group using the Azure CLI!
