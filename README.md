@@ -4,7 +4,7 @@
 </p>
 <p>
 
-
+![Optional Image Description](https://i.imgur.com/2jcBIlK.jpeg)
 
 
 </p>
@@ -39,13 +39,13 @@ This tutorial outlines the prerequisites and installation of the Azure CLI as we
 <h2>Installation Steps</h2>
 
 <p>
-![Optional Image Description](https://i.imgur.com/LmCIM39.png)
+
 </p>
 <p>
 
   **Step 1: Install Azure CLI**
 
-Ensure that the Azure CLI is installed on your Windows PC. If not, you can download and install it from the Official Azure CLI Page - (https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
+Ensure that the Azure CLI is installed on your Windows PC. If not, you can download and install it from the Official Azure CLI Page - (https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli). Choose 64 bit or 32 bit depending on your computer specifications.
 
 
 </p>
@@ -65,7 +65,9 @@ On your Windows PC. You can do this by searching for Windows Powershell in the W
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Optional Image Description](https://i.imgur.com/RmdfPOI.png)
+
 </p>
 <p>
 
@@ -79,7 +81,10 @@ To log in to your Azure account via the Azure CLI, run the following command:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Optional Image Description](https://i.imgur.com/tEQYdV2.png)
+
+
 </p>
 <p>
 
@@ -95,7 +100,9 @@ Replace <Your-Subscription-Id> with your actual Azure subscription ID.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Optional Image Description](https://i.imgur.com/zZUyuOF.png)
+
 </p>
 <p>
 
