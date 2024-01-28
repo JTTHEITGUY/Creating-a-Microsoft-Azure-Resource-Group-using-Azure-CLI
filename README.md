@@ -41,7 +41,8 @@ This tutorial outlines the prerequisites and installation of the Azure CLI as we
 </p>
 <p>
 
-  **Step 1:** Install Azure CLI
+  **Step 1: Install Azure CLI**
+
 Ensure that the Azure CLI is installed on your Windows PC. If not, you can download and install it from the Official Azure CLI Page - (https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 
 
@@ -53,8 +54,9 @@ Ensure that the Azure CLI is installed on your Windows PC. If not, you can downl
 </p>
 <p>
 
-  **Step 2:** Open Windows Powershell 
-on your Windows PC. You can do this by searching for Windows Powershell in the Windows search bar.
+  **Step 2: Open Windows Powershell**
+
+On your Windows PC. You can do this by searching for Windows Powershell in the Windows search bar.
 </p>
 <br />
 
@@ -63,7 +65,8 @@ on your Windows PC. You can do this by searching for Windows Powershell in the W
 </p>
 <p>
 
-**Step 3:**   Login to Azure
+**Step 3: Login to Azure**
+
 To log in to your Azure account via the Azure CLI, run the following command:
 **az login**
 
@@ -76,7 +79,8 @@ To log in to your Azure account via the Azure CLI, run the following command:
 </p>
 <p>
 
-**Step 4:** Set the Subscription (Optional)
+**Step 4: Set the Subscription (Optional)**
+
 If you have multiple Azure subscriptions and want to specify which one to use, run:
 az account set --subscription "<Your-Subscription-Id>"
 Replace <Your-Subscription-Id> with your actual Azure subscription ID.
@@ -91,9 +95,10 @@ Replace <Your-Subscription-Id> with your actual Azure subscription ID.
 </p>
 <p>
 
-Step 5: Create the Resource Group
-To create a new resource group, use the following command: **az group create --name <ResourceGroupName> --location <Location>**.
-Replace "ResourceGroupName" with the name you want for your resource group and <Location> with the Azure region (e.g., eastus, westus).
+**Step 5: Create the Resource Group**
+
+To create a new resource group, use the following command: **az group create --name **ResourceGroupName** --**Location** 
+Replace **"ResourceGroupName"** with the name you want for your resource group and **"Location"** with the Azure region (e.g., eastus, westus).
 
 
 </p>
@@ -104,7 +109,8 @@ Replace "ResourceGroupName" with the name you want for your resource group and <
 </p>
 <p>
 
-Step 6: Verify the Creation
+**Step 6: Verify the Creation**
+
 To confirm that your resource group has been created, you can list all your resource groups with  following command:
 **az group list --output table**
 This will display a table of all your resource groups along with their details.
