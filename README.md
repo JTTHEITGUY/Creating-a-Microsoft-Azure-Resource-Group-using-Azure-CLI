@@ -53,7 +53,7 @@ Ensure that the Azure CLI is installed on your Windows PC. If not, you can downl
 
 <p>
  
- <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Optional Image Description](https://i.imgur.com/LmCIM39.png)
 
 </p>
 <p>
