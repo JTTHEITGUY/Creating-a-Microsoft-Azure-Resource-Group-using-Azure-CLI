@@ -66,7 +66,7 @@ On your Windows PC. You can do this by searching for Windows Powershell in the W
 
 <p>
 
- ![Optional Image Description](https://i.imgur.com/RmdfPOI.png)
+![Optional Image Description](https://i.imgur.com/6GmWHF7.png)
 
 </p>
 <p>
