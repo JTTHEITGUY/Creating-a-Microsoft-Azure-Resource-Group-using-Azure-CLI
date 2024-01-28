@@ -15,10 +15,6 @@
 This tutorial outlines the prerequisites and installation of the Azure CLI as well as how to deploy a Microsoft Azure Resource Group using the Azure CLI. <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Resource Groups)
