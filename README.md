@@ -109,7 +109,7 @@ Replace <Your-Subscription-Id> with your actual Azure subscription ID.
 **Step 5: Create the Resource Group**
 
 To create a new resource group, use the following command: **az group create --location westus --resource-group MyResourceGroup**,
-Replace **"westus"** with the Azure region (e.g., eastus, westus) and **"MyResourceGroup"** with the name you want for your resource group.
+Replace **"westus"** with your Azure region (e.g., eastus, centralus) and **"MyResourceGroup"** with the name you want for your resource group.
 
 
 </p>
@@ -137,3 +137,5 @@ This will display a table of all your resource groups along with their details.
 
 </p>
 <p>
+
+And now you know how to deploy a Microsoft Azure Resource Group using the Azure CLI!
