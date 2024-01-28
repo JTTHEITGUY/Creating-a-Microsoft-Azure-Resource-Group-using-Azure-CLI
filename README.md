@@ -116,7 +116,9 @@ Replace **"westus"** with the Azure region (e.g., eastus, westus) and **"MyResou
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Optional Image Description](https://i.imgur.com/WyoAhk8.png)
+
 </p>
 <p>
 
@@ -130,6 +132,8 @@ This will display a table of all your resource groups along with their details.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Optional Image Description](https://i.imgur.com/lQ589qG.png)
+
 </p>
 <p>
