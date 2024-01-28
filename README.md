@@ -3,13 +3,13 @@
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 
 
 <h1> Creating a Microsoft Azure Resource Group using Azure CLI - Prerequisites and Azure CLI  Installation</h1>
-This tutorial outlines the prerequisites and installation of the Azure CLI as well as how to deploy a Microsoft Azure Resource Group using Azure CLI <br />
+This tutorial outlines the prerequisites and installation of the Azure CLI as well as how to deploy a Microsoft Azure Resource Group using Azure CLI. <br />
 
 
 <h2>Video Demonstration</h2>
