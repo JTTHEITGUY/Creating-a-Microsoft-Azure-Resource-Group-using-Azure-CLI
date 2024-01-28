@@ -97,8 +97,8 @@ Replace <Your-Subscription-Id> with your actual Azure subscription ID.
 
 **Step 5: Create the Resource Group**
 
-To create a new resource group, use the following command: **az group create --name **ResourceGroupName** --**Location**, 
-Replace **"ResourceGroupName"** with the name you want for your resource group and **"Location"** with the Azure region (e.g., eastus, westus).
+To create a new resource group, use the following command: **az group create --location westus --resource-group MyResourceGroup**,
+Replace **"westus"** with the Azure region (e.g., eastus, westus) and **"MyResourceGroup"** with the name you want for your resource group.
 
 
 </p>
