@@ -117,7 +117,7 @@ Replace **"westus"** with the Azure region (e.g., eastus, westus) and **"MyResou
 
 <p>
 
- ![Optional Image Description](https://i.imgur.com/WyoAhk8.png)
+![Optional Image Description](https://i.imgur.com/Pig9K2a.png)
 
 </p>
 <p>
