@@ -120,7 +120,7 @@ Replace **"westus"** with your Azure region (e.g., eastus, centralus) and **"MyR
 
 **Step 6: Verify the Creation**
 
-To confirm that your resource group has been created, you can list all your resource groups with  following command:
+To confirm that your resource group has been created, you can list all your resource groups with the following command:
 **az group list --output table**
 This will display a table of all your resource groups along with their details.
 
