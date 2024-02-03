@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the Azure CLI as we
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure Subsciption
+- Microsoft Azure Subscription
 - Azure CLI 
 - Windows PC (I am currently using Windows 11 version 22H2, but Windows 10 should also be compatible)
 - Windows Powershell 
